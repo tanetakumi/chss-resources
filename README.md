@@ -1,0 +1,2 @@
+# Resource Storage for CraftersHubServerStarter
+
