@@ -1,4 +1,14 @@
 {
   "version": "1.0",
-  "message": "アップデートがあります。"
+  "message": "アップデートがあります。",
+  "servers": [
+    {
+      "name": "fabric-1.20.1",
+      "url": "https://raw.githubusercontent.com/tanetakumi/chss-resources/main/servers/fabric-1.20.1.zip"
+    },
+    {
+      "name": "fabric-1.18.2",
+      "url": "https://raw.githubusercontent.com/tanetakumi/chss-resources/main/servers/fabric-1.20.1.zip"
+    }
+  ]
 }
