@@ -4,7 +4,7 @@
   "servers": [
     {
       "name": "fabric-1.20.1",
-      "url": "https://raw.githubusercontent.com/tanetakumi/chss-resources/main/servers/fabric-1.20.1.zip"
+      "url": "https://www.dropbox.com/scl/fi/h50wiugpjl8fqiml6h2f8/fabric-1.20.1.zip?rlkey=3lm1yfa7gotl1dnahszht1w01&st=6s91i18f&dl=1"
     },
     {
       "name": "paper-1.20.1",
