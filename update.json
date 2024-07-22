@@ -9,6 +9,10 @@
     {
       "name": "fabric-1.20.1-v2",
       "url": "https://www.dropbox.com/scl/fi/hby5wtes91jbfvz373hlb/fabric-1.20.1-v2.zip?rlkey=2zf4znk4h58ho7yb9i4ns1nxx&st=wmshrgtm&dl=1"
+    },
+    {
+      "name": "fabric-1.19.4",
+      "url": "https://www.dropbox.com/scl/fi/aybgwqjmiew0llz77yi6j/fabric-1.19.4.zip?rlkey=tmu08swnp9e716wnehhwoqaxz&st=7sjsthxt&dl=1"
     }
   ]
 }
