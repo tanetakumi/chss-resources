@@ -3,20 +3,8 @@
   "token": "IwJnViEAeEsrGmdBIQ5kSyEH",
   "servers": [
     {
-      "name": "fabric-1.20.1",
-      "url": "https://www.dropbox.com/scl/fi/qbncqczdtkkdll1tuafhe/fabric-1.20.1.zip?rlkey=0cgx99q9nbf0bjr1k8rrmkmfx&st=0fbe6jss&dl=1"
-    },
-    {
       "name": "paper-1.20.1",
-      "url": "https://www.dropbox.com/scl/fi/x18wbvg8rbeqzcbqtg5jx/paper-1.20.1.zip?rlkey=y6wregth5p7x94iih124u84bj&st=u7572nx1&dl=1"
-    },
-    {
-      "name": "fabric-1.18.2",
-      "url": "https://www.dropbox.com/scl/fi/9pbrpu8q1na71w4bprqd3/fabric-1.18.2.zip?rlkey=p7iarjl1n86xwkyjc5smkozse&st=zv3vf5ea&dl=1"
-    },
-    {
-      "name": "fabric-1.17.1",
-      "url": "https://www.dropbox.com/scl/fi/aw0f71jj1hwxvt7xejups/fabric-1.17.1.zip?rlkey=yfi3rf2z8ln1ocnqzir3ofkoo&st=2yb07uvv&dl=1"
+      "url": "https://www.dropbox.com/scl/fi/qaouwxx5fatzo785ibnsh/paper-1.20.1.zip?rlkey=x70m4jrr4h2jw833295d3zs7j&st=qds4z43w&dl=1"
     },
     {
       "name": "fabric-1.20.1-v2",
