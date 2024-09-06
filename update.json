@@ -21,6 +21,10 @@
     {
       "name": "fabric-1.21",
       "url": "https://www.dropbox.com/scl/fi/z7fca3vz89uexz1zjd878/fabric-1.21.zip?rlkey=d8ewp8axw3txq3lc5fp425iji&st=votljva8&dl=1"
+    },
+    {
+      "name": "fabric-1.16.5",
+      "url": "https://www.dropbox.com/scl/fi/4e7p6qygisy5ruj5gt2tw/fabric-1.16.5.zip?rlkey=s61nm85cgw4go6rzo10kewcxh&st=lzlbxqkq&dl=1"
     }
   ]
 }
